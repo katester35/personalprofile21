@@ -1,0 +1,17 @@
+body{
+  /*background-image: url("gwclogo.jpg");*/
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img{
+  width: 100px;
+}
+
+.nav{
+  font-size: 24pt;
+}
+
+.home, .hobbies, .quiz{
+  padding: 25px;
+}
